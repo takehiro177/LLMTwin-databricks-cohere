@@ -5,6 +5,10 @@ This repository provides an end-to-end LLMOps deployment fo Cohere LLM on Databr
 The data is collecting through streaming process and maintained as workflow for vector database and search as well as finetuning Cohere LLM model.
 For further detail, please vist this blog post in substack.
 
+
+https://github.com/user-attachments/assets/b0ae69a8-1eca-4016-b77b-15924ffbff3e
+
+
 ## Features
 * End-to-End Deployment: Seamless integration and deployment of LLMOps with Cohere on Databricks.
 * Cohere Integration: Utilizes Cohere’s language models for advanced and high quality cost effective LLM NLP capabilities.
