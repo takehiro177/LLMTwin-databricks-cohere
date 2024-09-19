@@ -24,6 +24,10 @@ The architecture of the TwinLLM project includes the following components:
 * LLM model finetuning: Utilizes Cohere LLM Platform and finetune Cohere’s language models and Mosaic AI for serving TwinLLM as endpoint.
 * Deployment: Deploys the finetuned LLM model on Databricks for real-time and chat agent Application usage in Databricks.
 * Blog Generation: Generates technical blog posts based on user queries and the learned knowledge.
+  
+![Screenshot 2024-09-17 172131](https://github.com/user-attachments/assets/365fc0c3-23e2-42ce-9734-568507261175)
+
+For the detail of process and data pipeline please vist substack blog post:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
