@@ -27,7 +27,7 @@ The architecture of the TwinLLM project includes the following components:
   
 ![Screenshot 2024-09-17 172131](https://github.com/user-attachments/assets/365fc0c3-23e2-42ce-9734-568507261175)
 
-For the detail of process and data pipeline please vist substack blog post:
+For the detail of process and data pipeline please vist substack blog post: https://open.substack.com/pub/takehiroohashidsml/p/cohere-on-databricks-end-to-end-enterprise?r=1vxpx7&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
