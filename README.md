@@ -33,4 +33,4 @@ For the detail of process and data pipeline please vist substack blog post: http
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### DISCRAMER
-This work does not represent any parties nor take any responsibilities on its output and result. Please note that using contents in this repository is at your own risk.
+This work is not affiliated with or endorsed by any parties. The author assumes no responsibility for the accuracy, completeness, or consequences of using the content provided. Use of the materials in this repository is at your own risk.
