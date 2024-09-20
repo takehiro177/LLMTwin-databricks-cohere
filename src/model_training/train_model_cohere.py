@@ -196,7 +196,7 @@ create_finetune_data(training_data.to_dict(orient='records'))
 import cohere
 
 # instantiate the Cohere client
-api_key = dbutils.secrets.get(scope="tk-personal", key="cohere-production")
+api_key = dbutils.secrets.get(scope="your_scope", key="your_cohere-production_key")
 co = cohere.Client(api_key)  
 
 # create cohere finetune tarining dataset through api
