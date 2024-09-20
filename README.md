@@ -1,4 +1,4 @@
-# TwinLLM-databricks-cohere
+# LLMTwin-databricks-cohere
 ## Overview
 This repository provides an end-to-end LLMOps deployment fo Cohere LLM on Databricks, leveraging Cohere on Mosaic AI. The primary use case of this project is to create a LLM Twin, which learns users’ technical knowledge by finetuning from various resources such as GitHub repositories, PDFs, and more. The LLM Twin is designed to assist users by performing technical blog writing tasks.
 
